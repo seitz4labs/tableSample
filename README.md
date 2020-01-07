@@ -1,2 +1,0 @@
-# tableSample
-Created with CodeSandbox
